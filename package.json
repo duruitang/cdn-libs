@@ -1,0 +1,50 @@
+{
+  "name": "cdn-libs",
+  "version": "0.0.1",
+  "author": "duruitang",
+  "description": "Popular JavaScript libs for CDN usage",
+  "keywords": [
+    "CDN",
+    "JavaScript",
+    "libs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/duruitang/cdn-libs"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "4.4.x"
+  },
+  "bugs": {
+    "url": "https://github.com/duruitang/cdn-libs/issues",
+    "email": "aaa@aaa.com"
+  },
+  "contributors": [
+    {
+      "name": "aaa",
+      "email": "aaa@aaa.com"
+    }
+  ],
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {
+    "jquery": "^2.2.4"
+  },
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^2.0.6",
+    "gulp-uglify": "^1.5.3",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-md5": "^0.1.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-less": "^3.0.5",
+    "gulp-sass": "^2.2.0",
+    "ali-oss": "^4.4.4",
+    "co": "^4.6.0"
+  }
+}
